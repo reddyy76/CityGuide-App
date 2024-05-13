@@ -1,0 +1,206 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Orissa</string>
+    <string name="app_tag_text">The Soul of Incredible India</string>
+    <string name="no_desc_available">No description available</string>
+    <string name="hotels">Hotels</string>
+    <string name="places">Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shoppings">Shopping</string>
+    <string name="events">Events</string>
+    <string name="image">image</string>
+
+    <string name="jehan_numa_hotel">Hotel Landmark</string>
+    <string name="marriott"> Vishal Guest House</string>
+    <string name="sayaji">Hotel Destination</string>
+    <string name="stay_inn">Balaji Bhavan</string>
+    <string name="celestial_park">Hotel Kanchan Plaza</string>
+    <string name="kanha_palm">Hotel Suryamukhi</string>
+    <string name="rajhans">ITC Hotels</string>
+    <string name="shubhinn">Keshari Guest House</string>
+
+    <string name="jehan_numa_phone">09238101008</string>
+    <string name="marriot_phone">01246201180</string>
+    <string name="sayaji_phone">07205459821</string>
+    <string name="stayinn_phone">01246201180</string>
+    <string name="celestial_park_phone">01246201180</string>
+    <string name="kanha_palm_phone">01246201180</string>
+    <string name="rajhans_phone">06747147140</string>
+    <string name="shubhinn_phone">01246201180</string>
+
+    <string name="five_star">5-star hotel</string>
+    <string name="four_star">4-star hotel</string>
+    <string name="three_star">3-star hotel</string>
+    <string name="two_star" translatable="false">2-star hotel</string>
+
+    <string name="jehan_numa_hotel_address">Padanpur, Near NISER, Bhubaneswar, Odisha 752050</string>
+    <string name="marriott_address">SH 13, Jatni, Khordha, Odisha 752050</string>
+    <string name="sayaji_address">5P72+F55, Ramchandrapur Bazar, near MUNCIPALITY CHHAK, Jatni, Khordha, Odisha 752050</string>
+    <string name="stay_inn_address">29, RC pur bazaar municipality chowk, Jatni, Odisha 752050</string>
+    <string name="celestial_park_address">Bata-Bhuasuni Temple, Ogalpada, NH16, Janla, Bhubaneswar, Odisha 752054</string>
+    <string name="kanha_palm_address">Khurda Bypass,National Highway 5,Mukunda Prasad, Khurda, near Santoshi Temple, Bhubaneswar, Odisha 752050</string>
+    <string name="rajhans_address">D/1, Dumduma, Bhubaneswar, Odisha 751019</string>
+    <string name="shubhinn_address">0, Keshri Guest House,R.C.Pur Bazar,Jatni, Bhubaneswar, Odisha 752050</string>
+
+    <string name="van_vihar">Udayagiri and Khandagiri Caves</string>
+    <string name="bhojtal">State Tribal Museum</string>
+    <string name="taj_mahal_palace">Ekamra Kanan Botanical Gardens</string>
+    <string name="tribal_museum">Mukteswara Temple</string>
+    <string name="sair_sapata">Nicco Park</string>
+    <string name="kanha_fun_city">Dhauli Hills</string>
+    <string name="birla_mandir">Jhumka Dam</string>
+    <string name="bhadbhada_dam">Indira Gandhi Park</string>
+
+    <string name="van_vihar_type">Historical landmark</string>
+    <string name="bhojtal_type">Museum</string>
+    <string name="taj_mahal_type">Botanical Gardens</string>
+    <string name="tribal_museum_type">Hindu Temple</string>
+    <string name="sair_sapata_type">Water Park</string>
+    <string name="kanha_fun_type">Tourist Attraction</string>
+    <string name="birla_mandir_type">Tourist Attraction</string>
+    <string name="bhadbhada_dam_type">Park</string>
+
+    <string name="van_vihar_phone">18002081414</string>
+    <string name="bhojtal_phone">06742563649</string>
+    <string name="taj_mahal_palace_phone"></string>
+    <string name="tribal_museum_phone"></string>
+    <string name="sair_sapata_phone">03366285509</string>
+    <string name="kanha_fun_city_phone">09937373263</string>
+    <string name="birla_mandir_phone"></string>
+    <string name="bhadbhada_dam_phone" />
+
+    <string name="van_vihar_time">9:30am - 6:00pm</string>
+    <string name="bhojtal_time">9:00am - 6:00pm</string>
+    <string name="taj_mahal_palace_time">9:00am - 6:00pm</string>
+    <string name="tribal_museum_time">6:00pm - 7:00pm</string>
+    <string name="sair_sapata_time">9:00am - 5:00pm</string>
+    <string name="kanha_fun_city_time">10:00am - 7:00pm</string>
+    <string name="birla_mandir_time">9:00am - 5:00pm</string>
+    <string name="bhadbhada_dam_time">8:00am - 8:00pm</string>
+
+    <string name="van_vihar_address">https://maps.app.goo.gl/sq YEoHymaHkZVNpZ8</string>
+    <string name="bhojtal_address">https://maps.app.goo.gl/ivyK54ayFUHjguENA</string>
+    <string name="taj_mahal_palace_address">https://maps.app.goo.gl/1a3NZBUvFffzhRFz9</string>
+    <string name="tribal_museum_address">https://maps.app.goo.gl/Yntp4xvQmmNxUyv67</string>
+    <string name="sair_sapata_address">https://maps.app.goo.gl/1MxVNAgueEAzjEJH8</string>
+    <string name="kanha_fun_city_address">https://maps.app.goo.gl/UAVQiw5DoMCHVLVP7</string>
+    <string name="birla_mandir_address">https://maps.app.goo.gl/hvFT5Lp8jGwgYGYg6</string>
+    <string name="bhadbhada_dam_address">https://maps.app.goo.gl/F5tN2EkFhyctkSFB8</string>
+
+    <string name="aura_mall">Shri Balaji Shopping Mall</string>
+    <string name="gammmon_mall">DN Regalia Mall</string>
+    <string name="capital_mall">V Mega Mart</string>
+    <string name="db_mall">Big Basket</string>
+    <string name="people_mall">Raj Gharona</string>
+    <string name="aashima_mall">TRENDS</string>
+
+    <string name="aura_mall_phone">0755 4034362</string>
+    <string name="gammmon_mall_phone">0755 2570363</string>
+    <string name="capital_mall_phone">0755 6680021</string>
+    <string name="db_mall_phone" />
+    <string name="people_mall_phone">1800 270 0080</string>
+    <string name="aashima_mall_phone">0755 4053555</string>
+
+    <string name="aura_mall_time">10:00am - 11:30pm</string>
+    <string name="gammmon_mall_time">10:30am - 9:30pm</string>
+    <string name="capital_mall_time">10:00am - 11:00pm</string>
+    <string name="db_mall_time">10:30am - 11:00pm</string>
+    <string name="people_mall_time">9:00am - 9:00pm</string>
+    <string name="aashima_mall_time">11:00am - 11:55pm</string>
+
+    <string name="aura_mall_addr">Jatni, Odisha</string>
+    <string name="gammmon_mall_addr">DN Square</string>
+    <string name="capital_mall_addr">Jatni</string>
+    <string name="db_mall_addr">Opposite Police Station</string>
+    <string name="people_mall_addr">Mahul Gudia Chowk</string>
+    <string name="aashima_mall_addr">Thana Chhak</string>Z
+
+    <string name="aura_mall_address">Jatni, Khordha, Odisha 752050</string>
+    <string name="gammmon_mall_address">6QR5+C84, Service Road South Tamando, DN Square, Kalinga Vihar, Patrapada, Bhubaneswar, Odisha 751019</string>
+    <string name="capital_mall_address">5M7X+WVC, Khordha, Odisha 752050</string>
+    <string name="db_mall_address">OPP JATNI POLICE STATION, RAMCHANDRAPUR BAZAR, THANA, CHHAK, Jatni,Odisha 752050</string>
+    <string name="people_mall_address">Mahul Gudia Chowk, Ramachandrapur, Jatni, Odisha 752050</string>
+    <string name="aashima_mall_address">Jatni Main Road Thana, Chhak, Khordha, Odisha 752050</string>
+
+    <string name="kuchina">Kebabs Era</string>
+    <string name="mango_tree">Saffron Species</string>
+    <string name="momo_cafe">"Fork  Fire "</string>
+    <string name="wind_wave">Vicky\'s Restaurant</string>
+    <string name="crystal_dew">Green Chilli</string>
+    <string name="dakshin_resto">Shree G Convention</string>
+
+    <string name="indian">Indian</string>
+    <string name="italian">Italian</string>
+    <string name="cafe">Cafe</string>
+    <string name="chinese">Chinese</string>
+
+    <string name="kuchina_phone">7855922399</string>
+    <string name="momo_cafe_phone">0755 3096240</string>
+    <string name="mango_tree_phone">09776411244</string>
+    <string name="crystal_dew_phone">0755 6680166</string>
+    <string name="wind_wave_phone">09776492229</string>
+    <string name="dakshin_resto_phone">07381287883</string>
+
+    <string name="kuchina_time">10:00pm - 10:30pm</string>
+    <string name="momo_cafe_time">10:30am - 11:30pm</string>
+    <string name="mango_tree_time">10:00am - 11:00pm</string>
+    <string name="crystal_dew_time" >10:30am - 11:00pm</string>
+    <string name="wind_wave_time">10:45am - 11:00pm</string>
+    <string name="dakshin_resto_time" >10:45am - 11:00pm</string>
+
+    <string name="kuchina_url">https://kebabsera.com/</string>
+    <string name="momo_cafe_url"/>
+    <string name="mango_tree_url"/>
+    <string name="crystal_dew_url" />
+    <string name="wind_wave_url" />
+    <string name="dakshin_resto_url" />
+
+    <string name="kuchina_address">https://maps.app.goo.gl/gv9GpEYuqsUruGRW7</string>
+    <string name="momo_cafe_address">https://maps.app.goo.gl/YDvfSmuwB73JUqoq8</string>
+    <string name="mango_tree_address">https://maps.app.goo.gl/ikxJegPCBXGBTBW97</string>
+    <string name="crystal_dew_address">https://maps.app.goo.gl/gojzeQtGKpAbUtvs8</string>
+    <string name="wind_wave_address">https://maps.app.goo.gl/59QBkhWEgk7orWCF8</string>
+    <string name="dakshin_resto_address">https://maps.app.goo.gl/1K6mPsLhFYNHA8xs9</string>
+
+    <string name="christmas_carnival">Kalinga Mahotsav</string>
+    <string name="chess_tour">Chandan Yatra</string>
+    <string name="workshop">Konark Dance Festival</string>
+    <string name="fashion_show">Mahabisuva Sankranti</string>
+    <string name="selfie_contest">Raja Parba</string>
+    <string name="bhopal_club_meet">Rath Yatra</string>
+
+    <string name="christmas_carnival_date">10 Jan</string>
+    <string name="chess_tour_date">Apr</string>
+    <string name="workshop_date">3 Dec</string>
+    <string name="fashion_show_date">14 Apr</string>
+    <string name="selfie_contest_date">July</string>
+    <string name="bhopal_club_meet_date">May</string>
+
+    <string name="christmas_carnival_time">9am - 12pm</string>
+    <string name="chess_tour_time">8am</string>
+    <string name="workshop_time">11:00am - 12:00pm</string>
+    <string name="fashion_show_time">5pm - 10pm</string>
+    <string name="selfie_contest_time">9am</string>
+    <string name="bhopal_club_meet_time">10:45am - 12:45pm</string>
+
+    <string name="christmas_carnival_place">Dhauli Shanti Stupa</string>
+    <string name="chess_tour_place">Jagannath temple at Puri</string>
+    <string name="workshop_place">Konark Temple</string>
+    <string name="fashion_show_place">Devi temples</string>
+    <string name="selfie_contest_place">Barunei</string>
+    <string name="bhopal_club_meet_place">Puri</string>
+
+    <string name="christmas_carnival_url">https://www.tourmyindia.com/states/odisha/kalinga-mahotsav.html</string>
+    <string name="chess_tour_url">https://en.wikipedia.org/wiki/Chandan_Yatra</string>
+    <string name="workshop_url">https://odishatourism.gov.in/content/tourism/en/discover/about-odisha/events-of-odisha/Konark-Dance-Festival.html</string>
+    <string name="fashion_show_url">https://en.wikipedia.org/wiki/Pana_Sankranti</string>
+    <string name="selfie_contest_url">https://timesofindia.indiatimes.com/religion/festivals/raja-sankranti-2023-know-how-raja-parba-is-celebrated-in-odisha/articleshow/100928623.cms</string>
+    <string name="bhopal_club_meet_url">https://www.shreejagannatha.in/ratha-yatra/</string>
+
+    <string name="no_phone">Phone number not found.</string>
+    <string name="no_website">Website not found.</string>
+    <string name="no_location">Unable to locate on the maps.</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="about">About</string>
+    <string name="dot_separator">\u2022</string>
+
+</resources>
