@@ -4,15 +4,15 @@
 
 ## Description:
 
-<p align="center">
-  <img src="https://github.com/RB-93/TourGuideApp/blob/master/app-demo/bhopal_lake.jpg?raw=true" width="450" height="200" title="City Lake View">
-</p>
+The purpose of building city guide application that makes our life easier and saves our time. And to provide navigation support, adding reviews, and communication support. It is also a user friendly application, so users can easily use the application
 
 ## Interface:
-![Screenshot_2024_0513_140319](https://github.com/reddyy76/CityGuide-App/assets/116450596/b4e4a0b4-55eb-44b4-b7b4-3817dcb2e4cd)
-![Screenshot_20240513_135958](https://github.com/reddyy76/CityGuide-App/assets/116450596/37d002b1-cb4e-4e13-9730-63982c0cf650)
-![Screenshot_2024_0513_140658](https://github.com/reddyy76/CityGuide-App/assets/116450596/0a11ce16-4deb-43a5-b483-df765416be37)
-![Screenshot_20240513_135956](https://github.com/reddyy76/CityGuide-App/assets/116450596/17df1628-2df2-484b-b22f-2027a6e41ffa)
+
+![Screenshot_20240513_135956](https://github.com/reddyy76/CityGuide-App/assets/116450596/7264564e-fb1d-447a-b29f-bdafc056c8f9)
+![Screenshot_2024_0513_140658](https://github.com/reddyy76/CityGuide-App/assets/116450596/3262b09c-30a2-4c6d-bc58-94f2855edbd1)
+![Screenshot_20240513_135958](https://github.com/reddyy76/CityGuide-App/assets/116450596/5f5393bf-0005-439d-ab5a-5ee2e4647a71)
+![Screenshot_2024_0513_140319](https://github.com/reddyy76/CityGuide-App/assets/116450596/c3dc0dac-1ca5-4572-9bc4-bd7017a1ae2b)
+
 
 ## Credits:
 
